@@ -1,0 +1,35 @@
+/* Write your code here */
+.container {
+  background: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-size: cover;
+  align-items: center;
+  padding: 12px;
+}
+.text {
+  text-align: center;
+}
+
+.h {
+  margin-bottom: 30px;
+  color: aquamarine;
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  cursor: pointer;
+}
+.arrow {
+  width: 30px;
+  height: 30px;
+}
+
